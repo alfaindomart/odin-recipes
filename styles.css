@@ -1,0 +1,15 @@
+.title {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    background-color: lightslategray;
+}
+
+#recipes-list {
+    background-color: darkgrey;
+    text-indent: 10px;
+    margin: 20px;
+    line-height: 25px;
+    white-space: normal;
+
+}
